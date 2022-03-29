@@ -1,0 +1,1 @@
+print(*sorted(input().split(), key=lambda x: abs(int(x)), reverse = True), end= ' ')
