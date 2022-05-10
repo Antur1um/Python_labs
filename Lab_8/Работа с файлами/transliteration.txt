@@ -1,0 +1,10 @@
+V odnoj papke s Vashej programmoj lezhit fajl cyrillic.txt. V nem v chisle prochih soderzhitsya
+nekotoroe kolichestvo kirillicheskih simvolov.
+Vam trebuetsya provesti transliteraciju, to est' zamenit' vse kirillicheskie simvoly na
+latinskie v sootvetstvii s predlozhennoj tablicej (vse ostal'nye simvoly nado ostavit' bez
+izmenenij) i zapisat' rezul'tat vo vtoroj fajl: transliteration.txt.
+EShhjo nemnogo teksta.
+Problemnye bukvy
+Je
+Shh
+Zh
